@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio3-DatabasePersistance</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="generos">
+        <item>Drama</item>
+        <item>Comedia</item>
+        <item>Horror</item>
+    </string-array>
+</resources>
